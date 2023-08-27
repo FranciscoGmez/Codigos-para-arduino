@@ -18,8 +18,8 @@
 // Declaración de varaiables
 
 // Declaración de constantes
-const char* ssid = "INFINITUM1C68_2.4";  // Nombre de tu red Wi-Fi
-const char* password = "YJqUqo3RqT";  // Contraseña de tu red Wi-Fi
+const char* ssid = "INFINITUM1";  // Nombre de tu red Wi-Fi
+const char* password = "XXX";  // Contraseña de tu red Wi-Fi
 const long utcOffsetInSeconds = -6*3600;  // Zona horaria de la Ciudad de México, en segundos (-6 horas)
 const char* ntpServer = "pool.ntp.org";  // Servidor NTP
 const int ntpPort = 123;  // Puerto NTP
